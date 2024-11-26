@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MnW2HhmiXGK1kq5IB5U8j9ie5Zqy0gbpyoB7HV/VWws=",
+  "Source": "WorkshopAPI",
+  "BasePath": "_content/WorkshopAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
